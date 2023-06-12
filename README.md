@@ -12,7 +12,9 @@ Este repositório tem como objetivo mapear as áreas do conhecimento de acordo c
 
 ## Fonte
 
-A fonte dos dados é o arquivo `areas_conhecimento.csv` que está disponível no site da CAPES. O arquivo foi baixado no dia 2020-05-05.
+A fonte dos dados é o arquivo `areas_conhecimento.csv` que está disponível no site da CAPES. O arquivo foi baixado no dia 2022-10-24.
+
+[CAPES](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/avaliacao/instrumentos/documentos-de-apoio-1/tabela-de-areas-de-conhecimento-avaliacao)
 
 ## Como contribuir
 
