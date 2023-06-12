@@ -3,480 +3,480 @@
     "StudyAreaID": 1,
     "Code": "10100008",
     "Name": "Matemática",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 2,
     "Code": "10200002",
     "Name": "Probabilidade e Estatística",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 3,
     "Code": "10300007",
     "Name": "Ciência da Computação",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 4,
     "Code": "10400001",
     "Name": "Astronomia",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 5,
     "Code": "10500006",
     "Name": "Física",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 6,
     "Code": "10600000",
     "Name": "Química",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 7,
     "Code": "10700005",
     "Name": "Geociências",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 8,
     "Code": "20100000",
     "Name": "Biologia Geral",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 9,
     "Code": "20200005",
     "Name": "Genética",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 10,
     "Code": "20600003",
     "Name": "Morfologia",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 11,
     "Code": "20700008",
     "Name": "Fisiologia",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 12,
     "Code": "20800002",
     "Name": "Bioquímica",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 13,
     "Code": "20900007",
     "Name": "Biofísica",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 14,
     "Code": "21000000",
     "Name": "Farmacologia",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 15,
     "Code": "21100000",
     "Name": "Imunologia",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 16,
     "Code": "21200000",
     "Name": "Microbiologia",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 17,
     "Code": "21300000",
     "Name": "Parasitologia",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 18,
     "Code": "20500000",
     "Name": "Ecologia",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 19,
     "Code": "10800000",
     "Name": "Oceanografia",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 20,
     "Code": "20300000",
     "Name": "Botânica",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 21,
     "Code": "20400000",
     "Name": "Zoologia",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 22,
     "Code": "30100000",
     "Name": "Engenharia Civil",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 23,
     "Code": "30700000",
     "Name": "Engenharia Sanitária",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 24,
     "Code": "31000000",
     "Name": "Engenharia de Transportes",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 25,
     "Code": "30200000",
     "Name": "Engenharia de Minas",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 26,
     "Code": "30300000",
     "Name": "Engenharia de Materiais e Metalúrgica",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 27,
     "Code": "30600000",
     "Name": "Engenharia Química",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 28,
     "Code": "30900000",
     "Name": "Engenharia Nuclear",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 29,
     "Code": "30500001",
     "Name": "Engenharia Mecânica",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 30,
     "Code": "30800005",
     "Name": "Engenharia de Produção",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 31,
     "Code": "31100007",
     "Name": "Engenharia Naval e Oceânica",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 32,
     "Code": "31200001",
     "Name": "Engenharia Aeroespacial",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 33,
     "Code": "30400007",
     "Name": "Engenharia Elétrica",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 34,
     "Code": "31300006",
     "Name": "Engenharia Biomédica",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 35,
     "Code": "40100006",
     "Name": "Medicina",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 36,
     "Code": "40500004",
     "Name": "Nutrição",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 37,
     "Code": "40200000",
     "Name": "Odontologia",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 38,
     "Code": "40300005",
     "Name": "Farmácia",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 39,
     "Code": "40400000",
     "Name": "Enfermagem",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 40,
     "Code": "40600009",
     "Name": "Saúde Coletiva",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 41,
     "Code": "40900002",
     "Name": "Educação Física",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 42,
     "Code": "40700003",
     "Name": "Fonoaudiologia",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 43,
     "Code": "40800008",
     "Name": "Fisioterapia e Terapia Ocupacional",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 44,
     "Code": "50100009",
     "Name": "Agronomia",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 45,
     "Code": "50200003",
     "Name": "Recursos Florestais e Engenharia Florestal",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 46,
     "Code": "50300008",
     "Name": "Engenharia Agrícola",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 47,
     "Code": "50400002",
     "Name": "Zootecnia",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 48,
     "Code": "50600001",
     "Name": "Recursos Pesqueiros e Engenharia de Pesca",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 49,
     "Code": "50500007",
     "Name": "Medicina Veterinária",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 50,
     "Code": "50700006",
     "Name": "Ciência e Tecnologia de Alimentos",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 51,
     "Code": "60100001",
     "Name": "Direito",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 52,
     "Code": "60200006",
     "Name": "Administração",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 53,
     "Code": "61300004",
     "Name": "Turismo",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 54,
     "Code": "60300000",
     "Name": "Economia",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 55,
     "Code": "60400005",
     "Name": "Arquitetura e Urbanismo",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 56,
     "Code": "61200000",
     "Name": "Desenho Industrial",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 57,
     "Code": "60500000",
     "Name": "Planejamento Urbano e Regional",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 58,
     "Code": "60600004",
     "Name": "Demografia",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 59,
     "Code": "60700009",
     "Name": "Ciência da Informação",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 60,
     "Code": "60800003",
     "Name": "Museologia",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 61,
     "Code": "60900008",
     "Name": "Comunicação",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 62,
     "Code": "61000000",
     "Name": "Serviço Social",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 63,
     "Code": "70100004",
     "Name": "Filosofia",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 64,
     "Code": "71000003",
     "Name": "Teologia",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 65,
     "Code": "70200009",
     "Name": "Sociologia",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 66,
     "Code": "70300003",
     "Name": "Antropologia",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 67,
     "Code": "70400008",
     "Name": "Arqueologia",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 68,
     "Code": "70500002",
     "Name": "História",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 69,
     "Code": "70600007",
     "Name": "Geografia",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 70,
     "Code": "70700001",
     "Name": "Psicologia",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 71,
     "Code": "70800006",
     "Name": "Educação",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 72,
     "Code": "70900000",
     "Name": "Ciência Política",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 73,
     "Code": "80100007",
     "Name": "Linguística",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 74,
     "Code": "80200001",
     "Name": "Letras",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 75,
     "Code": "80300006",
     "Name": "Artes",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 76,
     "Code": "90100000",
     "Name": "Interdisciplinar",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 77,
     "Code": "90200000",
     "Name": "Ensino",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 78,
     "Code": "90300009",
     "Name": "Materiais",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 79,
     "Code": "90400003",
     "Name": "Biotecnologia",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   },
   {
     "StudyAreaID": 80,
     "Code": "90500008",
     "Name": "Ciências Ambientais",
-    "LanguageID": 132
+    "LanguageID": "pt-BR"
   }
 ]
